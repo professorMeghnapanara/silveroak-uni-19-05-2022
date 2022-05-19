@@ -1,0 +1,4 @@
+* media query bootstrap
+* color
+* image
+* video/creation etc 
